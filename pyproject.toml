@@ -1,0 +1,7 @@
+[project]
+name = "marketflowanalytics"
+version = "0.1.0"
+description = "Um pipeline de dados que integra informações de uma API fake de loja e dados coletados via web scraping do Mercado Livre, construído com Airflow para orquestração, dbt para transformação, SQLAlchemy para conexão com o banco e Pydantic para validação dos dados, criando um Data Warehouse para análises e insights de vendas e mercado."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
